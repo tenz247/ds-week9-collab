@@ -1,1 +1,2 @@
 ﻿log 3 (partner): Tested GradientBosting Classifier.
+Log 3 (Partner): Tested GradientBoosting classifier.
