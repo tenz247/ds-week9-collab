@@ -1,1 +1,2 @@
 Log 1: Initialized local project workspace.
+Log 3 (Partner): Tested GradientBoosting classifier.
